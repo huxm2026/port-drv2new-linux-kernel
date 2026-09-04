@@ -51,7 +51,7 @@
 
 ## ## 版权声明
 本仓库全部内容为记录学习过程文档（Markdown笔记、启动日志、排错记录），无配套源代码。
-采用 [CC BY‑NC‑ND 4.0](https://creativecommons.org/licenses/by‑nc‑nd/4.0/deed.zh)。
+采用 [CC BY‑NC‑ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)。
 若需要源码，联系作者本人。
 
 ✅允许：仅GitHub网页端在线浏览；引用内容必须标注本仓库来源。
