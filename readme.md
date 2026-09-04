@@ -47,3 +47,15 @@
 * SOC：HI3798MV100 ARMv7
 * Kernel Version：Linux‑5.15
 * 文档编写工具：Obsidian
+
+
+## ## 版权声明
+本仓库全部内容为记录学习过程文档（Markdown笔记、启动日志、排错记录），无配套源代码。
+采用 [CC BY‑NC‑ND 4.0](https://creativecommons.org/licenses/by‑nc‑nd/4.0/deed.zh)。
+若需要源码，联系作者本人。
+
+✅允许：仅GitHub网页端在线浏览；引用内容必须标注本仓库来源。
+❌禁止：
+1. 批量下载、镜像、完整/部分二次公开分发本仓库文档；
+2. 修改、改写本仓库内容对外发布；
+3. 一切商业用途。
